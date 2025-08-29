@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Refresh",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "3lMcgEJxFU6Kn_lP0LMjaw",
+  "Reference": "cprku3FTm0C5Vb0FLMM_ZQ/3lMcgEJxFU6Kn_lP0LMjaw",
+  "ParentRef": "cprku3FTm0C5Vb0FLMM_ZQ/hnYSWzTRL0WHPemSIf4TvA",
+  "Created": "2025-08-29T00:24:33.3875385Z",
+  "Updated": "2025-08-29T00:24:33.3875385Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.14.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

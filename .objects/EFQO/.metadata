@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge ACME System 1 - Employees",
+  "Type": "App",
+  "Id": "EFQO_toTY02bl59LwqU8Qg",
+  "Reference": "cprku3FTm0C5Vb0FLMM_ZQ/EFQO_toTY02bl59LwqU8Qg",
+  "Created": "2025-08-29T00:24:07.8218767Z",
+  "Updated": "2025-08-29T00:24:07.8218767Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.14.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
